@@ -67,7 +67,9 @@ A implementação das procedures dinâmicas permite a inserção e atualização
 
 As views criadas facilitam a análise dos dados, permitindo consultas rápidas e eficientes sobre o status dos projetos, os clientes envolvidos e a alocação das equipes.
 
-### **Resultados e Benefícios**
+#
+
+## 📊 **Resultados e Benefícios**
 ✅ Banco de dados estruturado e otimizado para consultas eficientes.
 
 ✅ Automação na atualização de dados, reduzindo trabalho manual.
